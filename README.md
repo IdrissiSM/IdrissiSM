@@ -6,7 +6,6 @@
   <samp>
     <h3 >Visit my portfolio :</h2>
     <p>
-      <br/>
       https://www.portfolioinprogress.com/
     </p>
   </samp>
