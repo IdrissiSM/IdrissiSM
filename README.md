@@ -34,7 +34,7 @@
 <samp>
 
   ![idrissiSM github streak](https://github-readme-streak-stats.herokuapp.com/?user=idrissiSM&theme=radical&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiSM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissiSM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <samp><h3 align="left">Programming Languages</h3></samp>
